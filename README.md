@@ -10,10 +10,7 @@
 在远程master分支上更新了readme文件
 在远程master分支上更新了readme文件1
 在远程master分支上更新了readme文件2
-<<<<<<< HEAD
 在本地test-branch分支上更新了readme文件3
 在远程master分支上更新了readme文件3
 在本地test-branch分支上更新了readme文件1111
-=======
 在远程master分支上更新了readme文件1111
->>>>>>> master
