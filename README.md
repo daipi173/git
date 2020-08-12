@@ -6,3 +6,4 @@
 第三次在远程更新内容，此时本地落后于远程分支11111111
 远程更新readme文件，用于练习git fetch和git rebase
 本地更新index.html文件，用于练习git fetch和git rebase
+在远程master分支上更新了readme文件
