@@ -11,3 +11,4 @@
 在远程master分支上更新了readme文件2
 在远程master分支上更新了readme文件1111
 远程master分支更新了三次readme文件
+reset本地分支更新readme文件
