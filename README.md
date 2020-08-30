@@ -11,5 +11,3 @@
 在远程master分支上更新了readme文件2
 在远程master分支上更新了readme文件1111
 远程master分支更新了三次readme文件
-远程master分支更新readme文件，用于练习reset HEAD
-远程master分支更新readme文件，用于练习一般merge时commit的问题
