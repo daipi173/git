@@ -1,5 +1,5 @@
 # 忽略 lib 目录下面的所有文件
-lib/*
+*
  
 # 将 .gitkeep 文件排除
 !.gitkeep
